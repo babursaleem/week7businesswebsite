@@ -1,0 +1,6 @@
+
+
+
+
+    var badge_element = document.getElementById("yelp-biz-badge-fsc-i6tJm-khg2sUFwRutEC3oQ");
+    badge_element.innerHTML = "\u003ca href=\"https://www.yelp.com/biz/allen-printing-and-graphic-design-signal-hill\"\u003e\u003cimg alt=\"Allen Printing \u0026amp; Graphic Design\" src=\"https://dyn.yelpcdn.com/extimg/fsc/i6tJm-khg2sUFwRutEC3oQ.png\" height=\"55\" width=\"125\"\u003e\u003c/a\u003e";
